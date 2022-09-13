@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Raju-Ranjan-Kumar
-- 👀 I’m interested in coding
+- 👀 I’m interested in It field
 - 🌱 I’m currently learning Node-js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me => By LinkedIn https://www.linkedin.com/in/raju-ranjan-kumar-9bb282207/
 
 <!---
 Raju-Ranjan-Kumar/Raju-Ranjan-Kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
